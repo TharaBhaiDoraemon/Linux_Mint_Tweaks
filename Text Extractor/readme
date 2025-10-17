@@ -1,0 +1,6 @@
+Attached are 2 files. 
+In silent version desktop notifications are disabled
+
+Add Shortcut Windows + Shift + T
+bash -c "source ~/Documents/EasyOCR/bin/activate && python3 ~/Documents/LinuxTextExtractor/text_extractor.py && deactivate"
+
